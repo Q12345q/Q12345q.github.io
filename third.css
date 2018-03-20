@@ -1,0 +1,18 @@
+h1 {
+  color:red;
+  font-family: cursive;
+
+}
+ol li {
+  color:green;
+}
+ul li {
+  color: black;
+}
+.clamps{
+  color: pink;
+}
+#f1 {
+  color: grey;
+  font-size: 35px;
+}

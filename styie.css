@@ -1,0 +1,12 @@
+  li {color: #a5150b;
+font-family: arial;
+font-weight: bold;
+}
+body {
+  background-color: red;
+}
+@media (min-width:400px) and (max-width:800px) {
+  body {
+    background-color: black;
+  }
+}
